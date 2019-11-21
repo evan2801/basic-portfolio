@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: aquamarine;
+    background: black;
+    padding: 30px; 
+    font-size: 35px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+    margin:15px;
+}
+
+h2{
+    color: coral;
+    text-decoration: underline;
+}
+
+h3{
+    color: cornflowerblue;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+li{
+    color: red;
+}
+
+a{
+    color: blue;
+}
+
+p{
+   color: royalblue;
+}
+
+img{
+    border-style: solid;
+    border-color: coral ;
+    border-width: 5px;
+}
+
+h4{
+    font-size: 20px;
+    text-decoration: underline;
+    color: royalblue;
+}
+
