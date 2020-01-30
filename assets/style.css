@@ -19,14 +19,15 @@ h2{
 h3{
     color: cornflowerblue;
     text-decoration: underline;
-    font-size: 28px;
+    font-size: 30px;
     text-align: center;
 }
 
-
-li{
-    color: red;
+h4{
+    color: blue;
+    font-size: 20px;
 }
+
 
 a{
     color: blue;
@@ -36,11 +37,12 @@ li,
 strong
 {
     text-align: center;
+    color: red;
 
 }
 
 p{
-   color: royalblue;
+   color: cornflowerblue;
    text-align: center;
    font-size: 22px;
 }
@@ -49,17 +51,31 @@ img{
     border-style: solid;
     border-color: coral ;
     border-width: 5px;
+   
+}
+
+#weather{
+    length: 400px;
+    width:400px;
+
+}
+#password{
+    length: 400px;
+    width:400px;
+
 }
 
 h4{
-    font-size: 20px;
-    text-decoration: underline;
-    color: royalblue;
-    text-align: center;
-    font-size: 30px;
+    
 }
 h5{
     text-align: center;
     font-size: 25px;
     color: red;
+}
+h6{
+    text-align: end;
+    font-size: 17px;
+    color: red;
+    
 }
