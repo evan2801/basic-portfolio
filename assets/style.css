@@ -19,8 +19,10 @@ h2{
 h3{
     color: cornflowerblue;
     text-decoration: underline;
-    font-size: 25px;
+    font-size: 28px;
+    text-align: center;
 }
+
 
 li{
     color: red;
@@ -28,10 +30,19 @@ li{
 
 a{
     color: blue;
+    font-size: 22px;
+}
+li,
+strong
+{
+    text-align: center;
+
 }
 
 p{
    color: royalblue;
+   text-align: center;
+   font-size: 22px;
 }
 
 img{
@@ -44,5 +55,11 @@ h4{
     font-size: 20px;
     text-decoration: underline;
     color: royalblue;
+    text-align: center;
+    font-size: 30px;
 }
-
+h5{
+    text-align: center;
+    font-size: 25px;
+    color: red;
+}
